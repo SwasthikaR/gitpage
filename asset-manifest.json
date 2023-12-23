@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gitpage/static/css/main.fbfc9aed.css",
+    "main.js": "/gitpage/static/js/main.d3fa1c90.js",
+    "static/js/787.89af1294.chunk.js": "/gitpage/static/js/787.89af1294.chunk.js",
+    "static/media/vdo.mp4": "/gitpage/static/media/vdo.0e2a20f5da3bedb9a518.mp4",
+    "static/media/op2.png": "/gitpage/static/media/op2.f3a7539c685641c074e0.png",
+    "static/media/vdo_img.jpg": "/gitpage/static/media/vdo_img.7fc5b4a0ec015d2d0d18.jpg",
+    "static/media/op1.png": "/gitpage/static/media/op1.64183bb0815043407476.png",
+    "static/media/op3.png": "/gitpage/static/media/op3.24ab465df2a8325b4b85.png",
+    "static/media/op4.png": "/gitpage/static/media/op4.582f8f1734fcc717b4b8.png",
+    "index.html": "/gitpage/index.html",
+    "main.fbfc9aed.css.map": "/gitpage/static/css/main.fbfc9aed.css.map",
+    "main.d3fa1c90.js.map": "/gitpage/static/js/main.d3fa1c90.js.map",
+    "787.89af1294.chunk.js.map": "/gitpage/static/js/787.89af1294.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbfc9aed.css",
+    "static/js/main.d3fa1c90.js"
+  ]
+}
