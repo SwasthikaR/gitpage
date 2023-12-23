@@ -1,0 +1,17 @@
+.git_module{
+    color: #4a4a4a;
+    margin: auto;
+    width: 75%;
+    margin-top: 50px;
+}
+
+.git_module h1{
+    text-align: center;
+}
+
+.git_img{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

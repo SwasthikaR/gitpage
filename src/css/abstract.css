@@ -1,0 +1,15 @@
+.git_abs{
+    color: #4a4a4a;
+    width: 75%;
+    margin: auto;
+}
+
+.git_abs h1{
+    text-align: center;
+}
+
+.git_abs p{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 70px;
+}

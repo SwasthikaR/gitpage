@@ -1,0 +1,20 @@
+.git_ref{
+    width: 75%;
+    margin: auto;
+    color: #4a4a4a;
+    margin-bottom: 50px;
+    margin-top: 0;
+}
+
+.git_ref h1{
+    text-align: center;
+}
+
+a{
+    font-size: 18px;
+    font-weight: 70%;
+}
+
+a:hover{
+    color: rgb(66, 6, 66);
+}
